@@ -14,8 +14,8 @@ This guide provides instructions for setting up the project to avoid conflicts w
    Clone the project repository to your local machine.
 
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/DmytroTarasiuk/crawlers.git
+   cd crawlers
 
    ```
 
