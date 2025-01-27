@@ -1,7 +1,3 @@
-# Local Development Setup with Custom Port
-
-This guide provides instructions for setting up the project to avoid conflicts with the API server running on port `3000`.
-
 ## Prerequisites
 
 - Node.js v20 or later
@@ -25,6 +21,7 @@ This guide provides instructions for setting up the project to avoid conflicts w
 
 3. **Start the Development Server**
    To avoid conflicts with the API server on port 3000, specify a different port (e.g., 5000) when starting the development server.
+   `docker-compose up`
    `npm run dev`
 
 4. **Access the Application**
